@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    color: blue;
+}
+
+h2{
+    font-size: 20pt;
+}
+
+.box{
+
+    border: 15px solid red;
+    width: 360px;
+    padding: 80px;
+    margin: 150px;
+    border-radius: 50px;
+}
+
+.name{
+    border: 1px solid black;
+    border-radius: 16px;
+    width: 500px;
+    padding: 25px;
+    margin: 50px;
+}
+
+.name-img{
+    width: 100%;
+}
